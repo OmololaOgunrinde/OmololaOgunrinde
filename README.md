@@ -35,7 +35,7 @@ I'm interested in roles where data can drive real decisions in finance, operatio
 ## Currently
 
 - Building my data analytics portfolio publicly on LinkedIn
-- Open to entry-level data analyst roles and internship opportunities
+- Open to mid-level data analyst roles and opportunities
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/omolola-ogunrinde)
 - **Portfolio:** [Link to your website or live dashboards]👋
 
