@@ -41,7 +41,7 @@ I'm interested in roles where data can drive real decisions in finance, operatio
 
 ---
 
-*"The most important thing in data analytics isn't the tools — it's understanding the problem you're solving."*
+*"The most important thing in data analytics isn't the tools, it's understanding the problem you're solving."*
 
 
 
