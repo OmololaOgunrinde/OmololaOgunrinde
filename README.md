@@ -15,10 +15,10 @@ I'm interested in roles where data can drive real decisions in finance, operatio
 
 ## Skills
 
-- **SQL** — JOINs, CTEs, subqueries, window functions, aggregations
-- **Excel** — data cleaning, pivot tables, charts
-- **Power BI** — interactive dashboards, DAX, data modelling
-- **Analytics** — problem definition, root cause analysis, stakeholder communication
+- **SQL** - JOINs, CTEs, subqueries, window functions, aggregations
+- **Excel** - data cleaning, pivot tables, charts
+- **Power BI** - interactive dashboards, DAX, data modelling
+- **Analytics** - problem definition, root cause analysis, stakeholder communication
 
 ---
 
