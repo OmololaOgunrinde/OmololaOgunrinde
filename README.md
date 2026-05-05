@@ -28,7 +28,7 @@ I'm interested in roles where data can drive real decisions in finance, operatio
 |---|---|---|
 | [Loan Performance Analysis](https://github.com/omololaogunrinde/loan-performance-analysis) | Excel, Power BI | Diagnosed a 13.8% default rate across 500 loans for a fictional retail bank |
 | [Paper Company SQL Analysis](https://github.com/omololaogunrinde/paper-company-sql) | SQL (PostgreSQL) | 14 business queries across 5 tables — JOINs, CTEs, window functions |
-| [Netflix SQL Analysis](https://github.com/omololaogunrinde/netflix-sql-analysis) | SQL (PostgreSQL) | Content trend analysis on Netflix catalogue data |
+
 
 ---
 
