@@ -28,7 +28,7 @@ I'm interested in roles where data can drive real decisions in finance, operatio
 |---|---|---|
 | [Loan Performance Analysis](https://github.com/OmololaOgunrinde/Loan-Performance-Analysis) | Excel, Power BI, SQL | Diagnosed a 13.8% default rate across 500 loans for a fictional retail bank |
 | [Paper Company SQL Analysis](https://github.com/OmololaOgunrinde/Paper-Company-SQL) | SQL (PostgreSQL) | 14 business queries across 5 tables — JOINs, CTEs, window functions |
-| [Financial Analysis](https://github.com/OmololaOgunrinde/Financial-Perfomance-Analysis) | Excel | Developed a variance dashboard for a ₦3.1M portfolio, identifying key operational drivers behind a +42.5% net profit growth |
+| [Financial Analysis](https://github.com/OmololaOgunrinde/Financial-Performance-Analysis) | Excel | Developed a variance dashboard for a ₦3.1M portfolio, identifying key operational drivers behind a +42.5% net profit growth |
 
 ---
 
